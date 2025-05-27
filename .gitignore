@@ -1,0 +1,21 @@
+# Visual Studio files
+*.suo
+*.user
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Build output
+Debug/
+Release/
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.log
+*.tlog
+*.lst
+*.recipe
+
+# VS Code settings
+.vs/
